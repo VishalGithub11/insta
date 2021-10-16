@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "email": "george.bluth@reqres.in",
+    "first_name": "George",
+    "last_name": "Bluth",
+    "avatar": "https://reqres.in/img/faces/1-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/barbara.png"
+  },
+  {
+    "id": 2,
+    "email": "janet.weaver@reqres.in",
+    "first_name": "Janet",
+    "last_name": "Weaver",
+    "avatar": "https://reqres.in/img/faces/2-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png"
+  },
+  {
+    "id": 3,
+    "email": "emma.wong@reqres.in",
+    "first_name": "Emma",
+    "last_name": "Wong",
+    "avatar": "https://reqres.in/img/faces/3-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/peppers.png"
+  },
+  {
+    "id": 4,
+    "email": "eve.holt@reqres.in",
+    "first_name": "Eve",
+    "last_name": "Holt",
+    "avatar": "https://reqres.in/img/faces/4-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+  },
+  {
+    "id": 5,
+    "email": "charles.morris@reqres.in",
+    "first_name": "Charles",
+    "last_name": "Morris",
+    "avatar": "https://reqres.in/img/faces/5-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/goldhill.png"
+  },
+  {
+    "id": 6,
+    "email": "tracey.ramos@reqres.in",
+    "first_name": "Tracey",
+    "last_name": "Ramos",
+    "avatar": "https://reqres.in/img/faces/6-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png"
+  },
+  {
+    "id": 7,
+    "email": "michael.lawson@reqres.in",
+    "first_name": "Michael",
+    "last_name": "Lawson",
+    "avatar": "https://reqres.in/img/faces/7-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/frymire.png"
+  },
+  {
+    "id": 8,
+    "email": "lindsay.ferguson@reqres.in",
+    "first_name": "Lindsay",
+    "last_name": "Ferguson",
+    "avatar": "https://reqres.in/img/faces/8-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/girl.png"
+  },
+  {
+    "id": 9,
+    "email": "tobias.funke@reqres.in",
+    "first_name": "Tobias",
+    "last_name": "Funke",
+    "avatar": "https://reqres.in/img/faces/9-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/lena.png"
+  },
+  {
+    "id": 10,
+    "email": "byron.fields@reqres.in",
+    "first_name": "Byron",
+    "last_name": "Fields",
+    "avatar": "https://reqres.in/img/faces/10-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/sails.png"
+  },
+  {
+    "id": 11,
+    "email": "george.edwards@reqres.in",
+    "first_name": "George",
+    "last_name": "Edwards",
+    "avatar": "https://reqres.in/img/faces/11-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/serrano.png"
+  },
+  {
+    "id": 12,
+    "email": "rachel.howell@reqres.in",
+    "first_name": "Rachel",
+    "last_name": "Howell",
+    "avatar": "https://reqres.in/img/faces/12-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/tulips.png"
+  },
+
+
+  {
+    "id": 13,
+    "email": "lindsay.ferguson@reqres.in",
+    "first_name": "Lindsay",
+    "last_name": "Ferguson",
+    "avatar": "https://reqres.in/img/faces/8-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/girl.png"
+  },
+  {
+    "id": 14,
+    "email": "tobias.funke@reqres.in",
+    "first_name": "Tobias",
+    "last_name": "Funke",
+    "avatar": "https://reqres.in/img/faces/9-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/lena.png"
+  },
+  {
+    "id": 15,
+    "email": "byron.fields@reqres.in",
+    "first_name": "Byron",
+    "last_name": "Fields",
+    "avatar": "https://reqres.in/img/faces/10-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/sails.png"
+  },
+  {
+    "id": 16,
+    "email": "george.edwards@reqres.in",
+    "first_name": "George",
+    "last_name": "Edwards",
+    "avatar": "https://reqres.in/img/faces/11-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/serrano.png"
+  },
+  {
+    "id": 17,
+    "email": "rachel.howell@reqres.in",
+    "first_name": "Rachel",
+    "last_name": "Howell",
+    "avatar": "https://reqres.in/img/faces/12-image.jpg",
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/tulips.png"
+  }
+]
