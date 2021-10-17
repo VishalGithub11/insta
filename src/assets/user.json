@@ -5,7 +5,8 @@
     "first_name": "George",
     "last_name": "Bluth",
     "avatar": "https://reqres.in/img/faces/1-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/barbara.png"
+    "stories": "https://media.istockphoto.com/photos/farmer-hand-holding-young-plant-top-view-banner-new-life-eco-living-picture-id1226375088?b=1&k=20&m=1226375088&s=170667a&w=0&h=km8PRdFk7s9Xi1ob_wXfq0ZBxPtQAfPTeKIjqclbwNM=",
+    "post": "https://images.unsplash.com/photo-1623823501504-50e80f4f15e9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1588&q=80"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "first_name": "Janet",
     "last_name": "Weaver",
     "avatar": "https://reqres.in/img/faces/2-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png"
+    "stories": "https://media.istockphoto.com/photos/climate-change-protest-picture-id1161614023?b=1&k=20&m=1161614023&s=170667a&w=0&h=ZBLO2ix_AfCyjHd-qTF96v6Oz-coXH7kFOTQB5gEUfg=",
+    "post": "https://images.unsplash.com/photo-1633844667716-2eb62d7e031a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=763&q=80"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "first_name": "Emma",
     "last_name": "Wong",
     "avatar": "https://reqres.in/img/faces/3-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/peppers.png"
+    "stories": "https://media.istockphoto.com/photos/ecological-friendly-and-sustainable-environment-picture-id1274929273?b=1&k=20&m=1274929273&s=170667a&w=0&h=pQFbVKeqEu7wr2rRTmufH4e58gQkAsv2Pi7zoews1kM=",
+    "post":"https://images.unsplash.com/photo-1613548058193-1cd24c1bebcf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "first_name": "Eve",
     "last_name": "Holt",
     "avatar": "https://reqres.in/img/faces/4-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+    "stories": "https://images.unsplash.com/photo-1485113771930-4e8b61c60d64?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmFubmVyJTIwZW52aXJvbWVudHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "post":"https://images.unsplash.com/photo-1611567149614-74b77f482488?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "first_name": "Charles",
     "last_name": "Morris",
     "avatar": "https://reqres.in/img/faces/5-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/goldhill.png"
+    "stories": "https://images.unsplash.com/photo-1616970984049-a2041b869194?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmFubmVyJTIwZW52aXJvbWVudHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "post":"https://images.unsplash.com/photo-1573991082538-b4f3ae1bada5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=812&q=80"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "first_name": "Tracey",
     "last_name": "Ramos",
     "avatar": "https://reqres.in/img/faces/6-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png"
+    "stories": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png",
+    "post":"https://images.unsplash.com/flagged/photo-1574124796432-9f31e12693e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "first_name": "Michael",
     "last_name": "Lawson",
     "avatar": "https://reqres.in/img/faces/7-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/frymire.png"
+    "stories":"https://images.unsplash.com/photo-1616984856252-7fe7f4df8a56?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmFubmVyJTIwZW52aXJvbWVudHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "post": "https://images.unsplash.com/photo-1499557354967-2b2d8910bcca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "first_name": "Lindsay",
     "last_name": "Ferguson",
     "avatar": "https://reqres.in/img/faces/8-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/girl.png"
+    "stories": "https://images.unsplash.com/photo-1625196730709-79bbe923a32e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmFubmVyJTIwZW52aXJvbWVudHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "post":"https://images.unsplash.com/photo-1504051771394-dd2e66b2e08f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "first_name": "Tobias",
     "last_name": "Funke",
     "avatar": "https://reqres.in/img/faces/9-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/lena.png"
+    "stories": "https://images.unsplash.com/photo-1522228115018-d838bcce5c3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+    "post":"https://images.unsplash.com/photo-1535982368253-05d640fe0755?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDExfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "first_name": "Byron",
     "last_name": "Fields",
     "avatar": "https://reqres.in/img/faces/10-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/sails.png"
+    "stories": "https://images.unsplash.com/photo-1616970451697-6d9013fa257c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmFubmVyJTIwZW52aXJvbWVudHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "post":"https://images.unsplash.com/photo-1532373179750-cbe69d40161e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80"
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "first_name": "George",
     "last_name": "Edwards",
     "avatar": "https://reqres.in/img/faces/11-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/serrano.png"
+    "stories": "https://images.unsplash.com/photo-1618795508031-b95690ba214b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGJhbm5lciUyMGVudmlyb21lbnR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "post":"https://images.unsplash.com/photo-1558072844-b2e8b546d415?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "first_name": "Rachel",
     "last_name": "Howell",
     "avatar": "https://reqres.in/img/faces/12-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/tulips.png"
+    "stories": "https://images.unsplash.com/photo-1621953898300-a57253664f55?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGJhbm5lciUyMGVudmlyb21lbnR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "post":"https://images.unsplash.com/photo-1525550557089-27c1bfedd06c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60"
   },
 
 
@@ -103,7 +115,8 @@
     "first_name": "Lindsay",
     "last_name": "Ferguson",
     "avatar": "https://reqres.in/img/faces/8-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/girl.png"
+    "stories": "https://images.unsplash.com/photo-1630025326456-1d384d371b24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60",
+    "post":"https://images.unsplash.com/photo-1539605480396-a61f99da1041?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
     "id": 14,
@@ -111,7 +124,8 @@
     "first_name": "Tobias",
     "last_name": "Funke",
     "avatar": "https://reqres.in/img/faces/9-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/lena.png"
+    "stories": "https://images.unsplash.com/photo-1631270275663-b9606b854141?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXRodW1ibmFpbHx8NDE2MDExfHxlbnwwfHx8fA%3D%3D&dpr=1&auto=format&fit=crop&w=124.8&q=60",
+    "post":"https://images.unsplash.com/photo-1611178206064-2ae27f72b9ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
     "id": 15,
@@ -119,7 +133,8 @@
     "first_name": "Byron",
     "last_name": "Fields",
     "avatar": "https://reqres.in/img/faces/10-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/sails.png"
+    "stories": "https://images.unsplash.com/photo-1507998021208-973afeacd022?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXRodW1ibmFpbHx8MTA0MTk4M3x8ZW58MHx8fHw%3D&dpr=1&auto=format&fit=crop&w=124.8&q=60",
+    "post":"https://images.unsplash.com/photo-1525614686090-7a3108e3758e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE5fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
     "id": 16,
@@ -127,7 +142,8 @@
     "first_name": "George",
     "last_name": "Edwards",
     "avatar": "https://reqres.in/img/faces/11-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/serrano.png"
+    "stories": "https://images.unsplash.com/photo-1462910350365-b1697cc6b4f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXRodW1ibmFpbHx8MzY4Nzc1fHxlbnwwfHx8fA%3D%3D&dpr=1&auto=format&fit=crop&w=291.2&q=60",
+    "post":"https://images.unsplash.com/photo-1515202913167-d9a698095ebf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
     "id": 17,
@@ -135,6 +151,7 @@
     "first_name": "Rachel",
     "last_name": "Howell",
     "avatar": "https://reqres.in/img/faces/12-image.jpg",
-    "stories": "https://homepages.cae.wisc.edu/~ece533/images/tulips.png"
+    "stories": "https://media.istockphoto.com/photos/tropical-palm-tree-and-suitcase-minimal-summer-and-travel-concept-picture-id1153498948?b=1&k=20&m=1153498948&s=170667a&w=0&h=S9jnhQJxe3-Yfg8G_i8D8MXkGm2kOkki6NraqTPxF-0=",
+    "post":"https://images.unsplash.com/photo-1525614686090-7a3108e3758e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE5fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60"
   }
 ]

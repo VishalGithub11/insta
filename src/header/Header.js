@@ -1,5 +1,8 @@
 import React from "react";
-
+import {AiFillHome} from "react-icons/ai"
+import {BsMessenger} from "react-icons/bs"
+import {FaRegHeart} from "react-icons/fa"
+import {CgProfile} from "react-icons/cg"
 const Header = () => {
   return (
     <div
@@ -25,10 +28,10 @@ const Header = () => {
             marginTop: "2.5em",
           }}
         >
-          <li>hp</li>
-          <li>is</li>
-          <li>no</li>
-          <li>2</li>
+          <li><AiFillHome /></li>
+          <li><BsMessenger/></li>
+          <li><FaRegHeart/></li>
+          <li><CgProfile/></li>
         </ul>
       </div>
     </div>
