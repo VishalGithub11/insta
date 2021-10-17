@@ -13,7 +13,12 @@ setSelected(item.stories)
 
 }
 
+const handleBackdrop = (e)=>{
+  if(e.target.classList.contains("backdropDiv")){
+  setSelected(null)
 
+  }
+}
 
   return (
     <>
@@ -43,7 +48,7 @@ setSelected(item.stories)
 
 
 
-{selected ? <Story img={selected} /> : ""}
+{selected ? <Story img={selected} handleBackdrop={handleBackdrop} /> : ""}
 
     </>
   );
